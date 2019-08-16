@@ -17,6 +17,16 @@ Množství na velkou dávku pro celou rodinu (cca 5 l).
  * voda
  * nudle
 
+### S knedlíčky
+
+ * 150-200 g drůbeží nebo králičí játra
+ * cca 100 g strouhanky
+ * 30 g máslo
+ * 2 špetky soli
+ * 2 vejce
+ * stroužek česneku
+ * majoránka
+
 ## Recept
 
  1. Maso vložit do hrnce, hladina 3 cm pod okrajem hrnce. Zapnout.
@@ -32,6 +42,17 @@ Množství na velkou dávku pro celou rodinu (cca 5 l).
  8. Dolít vroucí vodou na doplnění hrnce.
  9. Ochutnat, dosolit podle potřeby, případně přidat vegetu.
  10. Do vypnutého lze přidat petržel nebo pažitku (klidně až na talíř).
+
+### Knedlíčky
+
+V průběhu vaření polévky připravit hmotu.
+
+ 1. Rozměknout máslo.
+ 2. Utřít játra.
+ 3. Přidat všechny další ingredience. Množstvím strouhanky regulovat hustotu.
+ 4. Vytvořit kuličky velikosti cca 2 cm.
+ 5. Před přidáním poslední vody kuličky po jedné házet do vroucí polévky. Hotový
+    knedlíček vyplave nahoru.
 
 Pozor: vývary se kazí rychle, je třeba je brzy dát do ledničky.
 
