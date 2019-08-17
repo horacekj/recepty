@@ -6,7 +6,7 @@ _Na závěrečnou poradu KSI._
 
  * nečíslovaný seznam
  * první písmeno malé
- * bez tečky na konci.
+ * bez tečky na konci
 
 ## Recept
 
