@@ -15,4 +15,4 @@ _Na závěrečnou poradu KSI._
 
 ## Zdroj
 
-Horáčkovi letitá rodinná kuchařka.
+Horáčkovic letitá rodinná kuchařka.
