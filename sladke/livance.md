@@ -2,11 +2,10 @@
 
 ## Suroviny
 
- * ½ kefíru
+ * ½ l kefíru
  * 2 vejce
  * špetka soli
  * špetka cukru
- * malá lžička soli
  * slabý ¼ l hrnek polohrubé mouky
 
 ## Recept
