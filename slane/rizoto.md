@@ -1,5 +1,7 @@
 # Rizoto
 
+Cca na 8–10 porcí.
+
 ## Suroviny
 
  * 2 hrnky rýže
