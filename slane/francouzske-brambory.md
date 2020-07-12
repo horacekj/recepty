@@ -7,7 +7,7 @@
  * 7 vajec
  * 90 g cibule
  * sádlo
- * 75 ml smetany
+ * 1 smetana
  * 150 ml mléka
 
 ## Recept
@@ -23,8 +23,8 @@
  8. Na dno dát půlku brambor.
  9. Mírně osolit a opepřit.
  10. Na brambory dát maso.
- 11. Na maso dát 3 vejce.
- 12. Posypat smaženou cibulí.
+ 11. Na maso dát 5 vajec.
+ 12. Posypat osmahnutou cibulí.
  13. Navrch dát druhou část brambor. Osolit, opepřit.
  14. Rozšlehat 2 vejce se smetanou a mlékem.
  15. Zapéct cca 20–30 minut dokud vršek nechytne hnědší barvu.
