@@ -2,7 +2,7 @@
 
 ## Suroviny
 
- * 250 g uzeného masa
+ * ~350 g uzeného masa
  * 1.5 kg brambor
  * 7 vajec
  * 90 g cibule
