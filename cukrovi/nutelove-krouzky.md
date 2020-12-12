@@ -2,6 +2,8 @@
 
 _Ty, co Honza miluje a jsou náročné na výrobu._
 
+Poměrně malá dávka, pro 2 lidi na vánoce klidně udělat dvojnásobnou.
+
 ## Suroviny
 
  * 250 g hladká mouka

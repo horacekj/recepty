@@ -1,5 +1,7 @@
 # Linecké
 
+Docela velká dávka, pro 2 lidi na vánoce klidně udělat poloviční.
+
 ## Suroviny
 
  * 420 g hladké mouky
