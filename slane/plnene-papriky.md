@@ -1,11 +1,15 @@
 # Plněné papriky s rajskou omáčkou
 
+Počet porcí: na 1 knedlík.
+
 ## Suroviny
+
+ * 1 knedlík
 
 ### Na lusky
 
- * 8 paprik
- * 250 g mletého masa (celkem jedno jakého, klidně směs vepřové + hovězí;
+ * 8 paprik úzkých malých
+ * 500 g mletého masa (celkem jedno jakého, klidně směs vepřové + hovězí;
    lze i maso z konzervy)
  * 1 rohlík
  * 1 vejce
@@ -37,7 +41,7 @@
 ### Omáčka
 
  1. Na sádle osmahnout cibuli nakrájenou na kostky v hrnci.
- 2. Přilít 1 dl vody, protlak, bobkový list.
+ 2. Přilít ~ 1 l vody, protlak, bobkový list.
  3. Vložit papriky.
  4. Přikrýt pokličkou, ztlumit, dusit cca 30 minut.
  5. V samostatném kastrólku připravit jíšku.
