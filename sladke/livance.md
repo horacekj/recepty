@@ -6,7 +6,7 @@
  * 2 vejce
  * špetka soli
  * špetka cukru
- * slabý ¼ l hrnek polohrubé mouky
+ * 175 g polohrubé mouky
 
 ## Recept
 
