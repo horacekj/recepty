@@ -10,6 +10,7 @@ Porcí není nikdy dost.
  * 50 g sádla
  * sůl
  * 1 lžíce sladké papriky (koření)
+ * majoránka
  * trocha hladké mouky
 
 ## Recept
