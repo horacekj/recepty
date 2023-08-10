@@ -7,6 +7,7 @@
  * špetka soli
  * špetka cukru
  * 175 g polohrubé mouky
+ * 1 lžička sody
 
 ## Recept
 
